@@ -1,14 +1,17 @@
 1. Clone
+
 Clone the repository by copy-pasting the following command into your terminal:
 
-`git clone https://github.com/dwyl/learn-nightwatch.git && cd ebay_nightwatch_cucumber`
+`git clone https://github.com/arora01gunjan/ebay_nightwatch_cucumber.git`
 
 2. Install
+
 Install the required dependencies including Selenium Server and chromedriver using:
 
 `npm install`
 
 3. Run (tests)
+
 Run the Nightwatch tests:
 
 `npm test`
